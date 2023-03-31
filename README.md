@@ -1,8 +1,7 @@
 ![MasterHead](https://static01.nyt.com/images/2021/01/28/business/28Techfix-illo-print/27Techfix-illo-print-superJumbo.gif)
 <h1 align="center">Hi 👋, I'm Murat</h1>
 <h3 align="center">I am in the process of becoming a data analyst. I'd like to get advice to consolidate my learning.
-(Ex Banker.
- Currently Jr.Data Analyst.</h3>
+(Ex Banker)</h3>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muratgungorgb&label=Profile%20views&color=0e75b6&style=flat" alt="muratgungorgb" /> </p>
@@ -26,7 +25,6 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muratgungorgb&show_icons=true&locale=en&layout=compact" alt="muratgungorgb" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muratgungorgb&show_icons=true&locale=en" alt="muratgungorgb" /></p>
 
