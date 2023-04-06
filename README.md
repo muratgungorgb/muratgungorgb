@@ -8,11 +8,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **SQL Projects**
+- 👀 I’m interested in  Data Analysis,Data Science,Business Analysis
 
-- 🌱 I’m currently learning **SQL,R**
+- 🌱 I’m currently learning **R,Python**
 
-- 💬 Ask me about **Power BI**
+- 💬 Ask me about **Power BI,SQL**
 
 - 📫 How to reach me **muratgungorgb@gmail.com**
 
