@@ -1,7 +1,7 @@
 ![MasterHead](https://static01.nyt.com/images/2021/01/28/business/28Techfix-illo-print/27Techfix-illo-print-superJumbo.gif)
-<h1 align="center">Hi 👋, I am Murat</h1>
-<h2 align="center">I am in the process of becoming a data analyst. I would like to get advice to consolidate my learning.
-(Ex Banker)</h2>
+<h2 align="center">Hi 👋, I am Murat</h1>
+<h2 align="center">
+</h2>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muratgungorgb&label=Profile%20views&color=0e75b6&style=flat" alt="muratgungorgb" /> </p>
