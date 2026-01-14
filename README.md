@@ -14,7 +14,7 @@
 
 - 💬 Ask me about **Power BI,SQL**
 
-- 📫 How to reach me **muratgungorgb@gmail.com**
+- 📫 How to reach me **muratgungoruk@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
