@@ -10,9 +10,9 @@
 
 - 👀 I’m interested in  Data Analysis, Data Science, Business Analysis and Business Intelligence
 
-- 🌱 I’m currently learning **R,Python**
+- 🌱 I’m currently learning **Python**
 
-- 💬 Ask me about **Excel, Power BI, SQL, APIs**
+- 💬 Ask me about **Excel, Power BI, SQL, SPSS, R, APIs**
 
 - 📫 How to reach me **muratgungoruk@gmail.com**
 
