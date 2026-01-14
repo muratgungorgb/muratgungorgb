@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **R,Python**
 
-- 💬 Ask me about **Power BI,SQL**
+- 💬 Ask me about **Excel, Power BI, SQL, APIs**
 
 - 📫 How to reach me **muratgungoruk@gmail.com**
 
